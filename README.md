@@ -1,3 +1,6 @@
+Make sure you have node v14+ installed.
+
+
 Task 1 - 
 Prevent the form from being submitted, unless all fields are valid and fill in.
 
